@@ -1,0 +1,19 @@
+#getData, #generateRoutes {
+    width: 14%;
+    text-align: center;
+    background-color: lightgray;
+    padding: 0.5%;
+    margin: 2% auto 0 auto;
+    border: 2px solid gray;
+    cursor: pointer;
+    display: inline-block;
+}
+
+    #getData:hover, #generateRoutes:hover {
+        background-color: #c4bfbf;
+    }
+#loadingImage{
+    position:absolute;
+    top:45%;
+    left:49%;
+}
